@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ludska01
 - 👀 I’m interested in web development
-- Also im looking for web development interships
 - 📫 How to reach me luka.lazarevic@pmf.edu.rs
 
 <!---
